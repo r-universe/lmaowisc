@@ -14,6 +14,9 @@
 [submodule "grpseq"]
 	path = grpseq
 	url = https://github.com/cran/grpseq
+[submodule "poset"]
+	path = poset
+	url = https://github.com/lmaowisc/poset
 [submodule "rmt"]
 	path = rmt
 	url = https://github.com/cran/rmt

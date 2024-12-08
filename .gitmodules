@@ -7,7 +7,7 @@
 	url = https://github.com/cran/WA
 [submodule "WR"]
 	path = WR
-	url = https://github.com/cran/WR
+	url = https://github.com/lmaowisc/wr
 [submodule "Wcompo"]
 	path = Wcompo
 	url = https://github.com/cran/Wcompo

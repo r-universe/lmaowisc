@@ -19,4 +19,4 @@
 	url = https://github.com/lmaowisc/poset
 [submodule "rmt"]
 	path = rmt
-	url = https://github.com/cran/rmt
+	url = https://github.com/lmaowisc/rmt
